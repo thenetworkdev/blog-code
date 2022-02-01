@@ -1,0 +1,6 @@
+httpx
+pydantic
+scrapli[full]
+rich
+
+black
